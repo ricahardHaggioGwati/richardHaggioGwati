@@ -16,7 +16,7 @@ Passionate web developer with a strong background in front-end development. I ha
 - 🍀 I am a fan of the [React](https://reactjs.org/) framework.
 - 🍀 I am cureently building all my projects with React.
 - 🍀 I really love the [Next.js](https://nextjs.org/) framework.
-- 🍀 I am a fan of the [Redux](https://redux.js.org/) framework.
+- 🍀 I am also a fan of the [Redux](https://redux.js.org/) framework.
 ***
 
 - #️⃣ I love working with [CSS3](https://www.w3.org/Style/CSS/).
