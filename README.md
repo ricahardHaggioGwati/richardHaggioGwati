@@ -2,7 +2,7 @@
 
 Passionate web developer with a strong background in front-end development. I have a passion for building web applications that are user-friendly and easy to use. I am currently working as a freelancer and I am looking for a position where I can help you build a better product. I am currently working on cloning [spotify](https://github.com/ricahardHaggioGwati/Spotify-clone). I would love to hear any feedback or advice you might have on any of my projects 😉. I am also open to any opportunities to learn new technologies and improve my skills.
 
-<img align='left' width='40%' src='https://github-readme-stats.vercel.app/api?username=richardHaggioGwati&show_icons=true&theme=codeSTACKr'/>
+<img align='left' width='40%' src='https://github-readme-stats.vercel.app/api?username=richardHaggioGwati&show_icons=true&title_color=7b2cbf&icon_color=3c096c&bg_color=10002b&text_color=f3fae1'/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardHaggioGwati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
