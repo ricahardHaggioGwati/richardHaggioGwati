@@ -20,12 +20,6 @@ Passionate web developer with a strong background in front-end development. I ha
 - ⏭️ Next.js
 - 🏎️ Redux
 
-### Information
-
-- 🍀 I am a fan of the [React](https://reactjs.org/) framework.
-- 🍀 I am cureently building all my projects with React.
-- 🍀 I really love the [Next.js](https://nextjs.org/) framework.
-- 🍀 I am also a fan of the [Redux](https://redux.js.org/) framework.
 ***
 
 - #️⃣ I love working with [CSS3](https://www.w3.org/Style/CSS/).
@@ -33,8 +27,7 @@ Passionate web developer with a strong background in front-end development. I ha
 - #️⃣ Check out the [Css Podcast](https://thecsspodcast.libsyn.com/), which is great for refreashing your CSS skills in small manageable chunks.
 ***
 
-- 💮 I will soon invest my time into [React Native](https://reactnative.dev/), after I feel comfortable with my React skills.
-- 💮 I would also be willing to check if [Flutter](https://flutter.dev/) is a good fit for me.
+- 💮 I would also like to try [Flutter](https://flutter.dev/) and see if it's good fit for me.
 ***
 
 ### Contact me 😊
