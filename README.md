@@ -20,16 +20,6 @@ Passionate web developer with a strong background in front-end development. I ha
 - ⏭️ Next.js
 - 🏎️ Redux
 
-***
-
-- #️⃣ I love working with [CSS3](https://www.w3.org/Style/CSS/).
-- #️⃣ I mostly write plain CSS because I am not the best at it and I would love to learn more about it and improve my skills before picking up any other frameworks.
-- #️⃣ Check out the [Css Podcast](https://thecsspodcast.libsyn.com/), which is great for refreashing your CSS skills in small manageable chunks.
-***
-
-- 💮 I would also like to try [Flutter](https://flutter.dev/) and see if it's good fit for me.
-***
-
 ### Contact me 😊
 - 🔗 [Linkdin](https://www.linkedin.com/in/richard-gwati-636a80233/)
 - 📬 [Gmail](haggio0844@gmail.com)
