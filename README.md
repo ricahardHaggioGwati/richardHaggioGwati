@@ -1,6 +1,6 @@
 # Hi my name is Richard 👋
 
-Passionate web developer with a strong background in front-end development. I have a passion for building web applications that are user-friendly and easy to use. I am currently working as a freelancer and I am looking for a position where I can help you build a better product. I would love to hear any feedback or advice you might have on any of my projects 😉. I am also open to any opportunities to learn new technologies and improve my skills.
+Passionate web developer with a strong background in front-end development. I have a passion for building web applications that are user-friendly and easy to use. I am currently working as a freelancer and I am looking for a position where I can help you build a better products. I would love to hear any feedback or advice you might have on any of my projects 😉. I am also open to any opportunities to learn new technologies and improve my skills.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardHaggioGwati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
