@@ -28,6 +28,7 @@ Passionate web developer with a strong background in front-end development. I ha
 - 🔗 [Linkdin](https://www.linkedin.com/in/richard-gwati-636a80233/)
 - 📬 [Gmail](haggio0844@gmail.com)
 - 🔥 [Site](https://portfolio-five-weld.vercel.app/)
+
 I look forward to hearing from you. 👩‍🚀
 
 Happy coding! 🚀
