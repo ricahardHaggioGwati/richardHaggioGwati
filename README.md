@@ -20,11 +20,11 @@ Passionate web developer with a strong background in front-end development. I ha
 
 
 ### Skills
-- 🌐 Web Development
-- 📱 React
-- 🦖 TypeScript
-- ⏭️ Next.js
-- 🏎️ Redux
+- 🌐 Full Stack Developer
+- 📱 React / Angular / Nodejs / Express
+- 🦖 TypeScript /JavaScript
+- ⏭️ C
+- 🏎️ Python
 
 ### Contact me 😊
 - 🔗 [Linkdin](https://www.linkedin.com/in/richard-gwati-636a80233/)
